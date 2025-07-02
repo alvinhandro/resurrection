@@ -2,8 +2,8 @@
   "name": "Resurrect",
   "version": "1.0.0",
   "main": "app.js",
+  "license": "MIT",
   "scripts": {
-    "license": "MIT"
     "start": "node app.js"
   },
   "dependencies": {
