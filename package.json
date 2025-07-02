@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
+    "license": "MIT"
     "start": "node app.js"
   },
   "dependencies": {
